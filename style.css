@@ -1,52 +1,15 @@
-.container svelte-171jwq6{
+body{
+  margin:0px;
+}
+.container{
+  margin:0px;
   display: flex;
-  position : relative;
-  height :150px;
-  background-color: purple;
 }
-.item  svelte-171jwq6{
-  position :absolute;
-  width: 50px;
-  height: 150px;
-  background: #eee;
-  border: 1px solid #000;
-  z-index: 5;
-  -webkit-box-shadow: 2px 2px 10px 2px #cccccc;
-  box-shadow: 2px 2px 10px 2px #cccccc;
+  
+  .image1{
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
-          @font-face {
-            font-family: sans-serif;
-            font-style: normal;
-            font-weight: 600;
-            font-display: swap;
-          }
-          @font-face {
-            font-family:  sans-serif;
-            font-style: normal;
-            font-weight: 700;
-            font-display: swap;
-
-          }
-          @font-face {
-            font-family: 'Open Sans';
-            font-style: normal;
-            font-weight: 400;
-            font-display: swap;
-          }
-          @font-face {
-            font-family: 'Open Sans';
-            font-style: normal;
-            font-weight: 700;
-            font-display: swap;
-
-          }
-      
-   body { 
-      
-   }
-  
-    :root {
-      --mainFont: Montserrat, Helvetica, Arial, sans-serif;
-      --secondaryFont: 'Open Sans', Helvetica, Arial, sans-serif;
-    }
-  
+    

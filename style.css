@@ -24,3 +24,14 @@ body{
   color: rgb(50,100,800);
 
 }
+.award{
+  text-align: left;
+}
+.asset_button{
+  margin:10px;
+  padding: 20px;
+  color: green;
+  font-size: 16px;
+  border-radius: 45%;
+  text-decoration:solid;
+}

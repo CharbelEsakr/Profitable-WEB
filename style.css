@@ -2,14 +2,25 @@ body{
   margin:0px;
 }
 .container{
-  margin:0px;
   display: flex;
 }
-  
-  .image1{
+  h1{
+    margin: 10px;
+    margin-left: 500px;
+
+  }
+.image1{
   width: 300px;
-  border: 15px solid green;
-  padding: 50px;
+  border: 10px solid green;
+  padding: 30px;
   margin: 20px;
+
 }
-    
+.textt{
+  width: 300px;
+  border: 10px solid green;
+  padding: 30px;
+  margin: 30px;
+  color: rgb(50,100,800);
+
+}
